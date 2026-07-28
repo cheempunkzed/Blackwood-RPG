@@ -1,0 +1,6 @@
+{
+  "name": "Blackwood RPG",
+  "description": "2D Isometric Classless ARPG Sandbox with Skill Mastery, Equipment & Combat Engine",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
